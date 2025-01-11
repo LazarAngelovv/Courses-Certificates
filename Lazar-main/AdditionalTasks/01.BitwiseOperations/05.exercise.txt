@@ -1,0 +1,16 @@
+Задача 5.
+Попълнете таблицата в байнари и хекс:
+
+X                           X<<3                       x>>2 (логически)                 x>>2 (аритметичен)
+
+Hex = 0xC3                  Hex = 0x618                Hex = 0x30                       Hex = 0xC30   
+binary = 0000 1100 0011     binary = 0110 0001 1000    binary = 00 0000 1100 00         binary = 11 0000 1100 00
+
+Hex = 0x75                  Hex = 0x3A8                Hex = 0x1D                       Hex = 0xC1D  
+binary = 0000 0111 0101     binary = 0011 1010 1000    binary = 00 0000 0111 01         binary = 11 0000 0111 01
+
+Hex = 0x87                  Hex = 0x38                 Hex = 0x21                       Hex = 0xE1  
+binary = 1000 0111          binary = 0011 1000         binary = 00 1000 01              binary = 11 1000 01
+
+Hex = 0x66                  Hex = 0x30                 Hex = 0x13                       Hex = 0xD9 
+binary = 0110 0110          binary = 0011 0000         binary = 00 0110 01              binary = 11 0110 01

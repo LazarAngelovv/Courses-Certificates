@@ -1,0 +1,9 @@
+Задача 4.
+Попълнете стойностите:
+X = 0x66  Binary - 0110 0110
+Y = 0x39  Binary - 0011 1001
+
+X&Y =    Binary - 0010 0000  Hex - 0x20                                       X && Y  = 1
+X | Y =  Binary - 0111 1111  Hex - 0x7F                                       X || Y  = 1
+~X | ~Y= Binary - 1111 1111  Hex - 0xFF                                      !X || !Y = 0
+X & !Y = 0                                                                    X && ~Y = 1

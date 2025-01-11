@@ -1,0 +1,26 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "utility": "c",
+        "initializer_list": "c",
+        "type_traits": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "stdarg.h": "c",
+        "sal.h": "c",
+        "cstdlib": "c",
+        "xlocinfo": "c",
+        "errno.h": "c",
+        "types.h": "c",
+        "corecrt.h": "c",
+        "ctype.h": "c",
+        "xlocale": "c",
+        "string.h": "c",
+        "functions.h": "c",
+        "stdbool.h": "c",
+        "time.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
