@@ -1,1 +1,0 @@
-#include "..\include\fnc.h"
